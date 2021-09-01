@@ -120,6 +120,8 @@ Ve son olarak local storage için de shared_preferences: ^2.0.7 sürümlü paket
         
                          });
 -Kodların açıklaması bu şekilde umarım anlaşılır ve faydalı olmuştur.
+       
+##PLAY STORE: https://play.google.com/store/apps/details?id=com.abdullahtas.seviyor_sevmiyor_app       
 
 ## Getting Started
   !!! pubspec.yaml dosyasını get etmeyi unutmayın!
